@@ -1,0 +1,5 @@
+Predict the INALI orthographic standardization for the following Otomi sentence written in the OTS standard (State of Mexico Otomi) (please return only the normalized sentences, no explanations). Note that some loanwords retain their original orthography, and certain linguistic phenomena may affect the transformations. 
+
+( test sentence )
+
+[Your prediction here]

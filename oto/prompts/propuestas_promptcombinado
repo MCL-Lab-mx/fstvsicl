@@ -1,0 +1,51 @@
+Below are examples of orthographic conversions of strings from the OTS standard (State of Mexico Otomi) and the OTQ standard (Otomi of Queretaro) to the INALI standard for the Otomi language. Note that some loanwords retain their original orthography, and certain linguistic phenomena may affect the transformations.
+
+Examples:
+
+1. OTS: r'atsa noya ra sahagún: ndäxkjua k'oi florentino. je̱m'i xiii, xe̱ni xiii (versión del náhuatl por ángel ma. garibay k.).
+   OTQ: r'atsa noya ra sahagún: ndäxjua k'oi florentino. he̱m'i xiii, xe̱ni xiii (versión del náhuatl por ángel ma. garibay k.).
+ INALI: r'atsa noya ra sahagún: ndäxjua k'oi florentino. he̱m'i xiii, xe̱ni xiii (versión del náhuatl por ángel ma. garibay k.).
+
+2. OTS: nubia ri nt'ode neje mar'a ya ñ'o̱jo̱ ne ya b'e̱jña ndeznä: ja ra yancuic tlahtolli, r'ayo noya.
+   OTQ: nubia ri nt'ode nehe mar'a ya ñ'o̱ho̱ ne ya b'e̱hña ndeznä: ha ra yancuic tlahtolli, r'ayo noya.
+ INALI: nubia ri nt'ode nehe mar'a ya ñ'o̱ho̱ ne ya b'e̱hña ndeznä: ha ra yancuic tlahtolli, r'ayo noya.
+
+3. OTS: ¿te ga o̱t'eju̱ ya macehuales,
+   OTQ: ¿te ga o̱t'ehu̱ ya macehuales,
+ INALI: ¿te ga o̱t'ehu̱ ya macehuales,
+
+4. OTS: dá jandi 'na ra cochi ra k'angi bi tjogi.
+   OTQ: dá handi 'na ra cochi ra k'angi bi thogi.
+ INALI: dá handi 'na ra cochi ra k'angi bi thogi.
+
+5. OTS: bi yu̱t'a m'onda ko ngatjo ya munts'a ndaro dega ñämfo̱ ya ñ'oui ya me̠tlaxcala ne mar'a, ra pa mi feni ra ngo ra san juan bautista, into bi daki.
+   OTQ: bi yu̱t'a m'onda ko ngatho ya munts'a ndaro dega ñämfo̱ ya ñ'oui ya me̠tlaxcala ne mar'a, ra pa mi feni ra ngo ra san juan bautista, into bi daki.
+ INALI: bi yu̱t'a m'onda ko ngatho ya munts'a ndaro dega ñämfo̱ ya ñ'oui ya me̠tlaxcala ne mar'a, ra pa mi feni ra ngo ra san juan bautista, into bi daki.
+
+6. OTS: bu̱ xo ndímápe̱'ts'igó komo ocho o dies años bikjúgígó eskwéla pero ndichichitjójó
+   OTQ: bu̱ xo ndímápe̱'ts'igó komo ocho o dies años bijúgígó eskwéla pero nditxitxithóhó
+ INALI: bu̱ xo ndímápe̱'ts'igó komo ocho o dies años bijúgígó eskwéla pero ndichichithóhó
+
+7. OTS: ja nubu̱ bri ts'u̱di ra k'astabokja xki pem'i dega tsant'i, ra k'asta bokja xki nku̱ni, ne ya nto̱de dega chalchihuite nuña mi kuet'e ja ya k'astabokja.
+   OTQ: ha nubu̱ bri ts'u̱di ra k'astaboja xki pem'i dega tsant'i, ra k'asta boja xki nku̱ni, ne ya nto̱de dega chalchihuite nuña mi kuet'e ha ya k'astaboja.
+ INALI: ha nubu̱ bri ts'u̱di ra k'astaboja xki pem'i dega tsant'i, ra k'asta boja xki nku̱ni, ne ya nto̱de dega chalchihuite nuña mi kuet'e ha ya k'astaboja.
+
+8. OTS: ge mä ra bonajmu metetzcoco ge, enfrentar ra cacamatzin, bi kjuajni bi fats'i ra cortés.
+   OTQ: ge mä ra bonahmu metetzcoco ge, enfrentar ra cacamatzin, bi juahni bi fats'i ra cortés.
+ INALI: ge mä ra bonahmu metetzcoco ge, enfrentar ra cacamatzin, bi juahni bi fats'i ra cortés.
+
+9. OTS: dra kjä'ihe ja nu'a ra jnini.
+   OTQ: dra jä'ihe ha nu'a ra hnini.
+ INALI: dra jä'ihe ha nu'a ra hnini.
+
+10. OTS: ra alvarado bi kjoji bi ntsabi. bi ma nuni tlacopan da ntsaya.
+   OTQ: ra alvarado bi johi bi ntsabi. bi ma nuni tlacopan da ntsaya.
+ INALI: ra alvarado bi johi bi ntsabi. bi ma nuni tlacopan da ntsaya.
+
+Task:
+
+Using these examples as a guide, predict the INALI orthographic standardization for the following sentence. The sentence originates from either the OTS or OTQ standards, but its source is unspecified. Return only the standardized sentence without any explanation.
+
+Sentence: ( test sentence )
+
+INALI: [Your prediction here]
